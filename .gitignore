@@ -52,4 +52,4 @@ rsconnect/
 *.csv
 results/
 .icloud
-.code-workspace
+*.code-workspace
